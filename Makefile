@@ -40,7 +40,7 @@ dep_emq_stomp = git https://github.com/emqtt/emq-stomp v2.3.7
 dep_emq_plugin_template = git https://github.com/emqtt/emq-plugin-template v2.3.7
 
 # web_hook lua_hook
-dep_emq_web_hook  = git https://github.com/emqtt/emq-web-hook v2.3.7
+dep_emq_web_hook  = git https://github.com/rudylacrete/emq-web-hook master
 dep_emq_lua_hook  = git https://github.com/emqtt/emq-lua-hook v2.3.7
 
 # COVER = true
